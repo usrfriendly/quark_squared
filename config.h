@@ -17,3 +17,5 @@
 #pragma once
 
 #define TAPPING_TOGGLE 2
+
+#define MIDI_ADVANCED
